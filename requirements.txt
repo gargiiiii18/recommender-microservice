@@ -5,4 +5,4 @@ numpy
 tensorflow==2.18.0
 joblib
 uvicorn
-
+scikit-learn
